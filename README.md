@@ -9,8 +9,7 @@
 ### 1. Membuat repository
 - Membuat repository baru dengan nama *Lab1Web*
 - Repository digunakan untuuk menyimpan file praktikum
-
-<img width="1218" height="908" alt="Cuplikan layar 2025-09-25 200450" src="https://github.com/user-attachments/assets/0ce9981a-46de-4ac9-81da-f33f0af05d4c" />
+<img width="1259" height="681" alt="Screenshot 2025-09-26 070735" src="https://github.com/user-attachments/assets/9423f091-6ae5-48a3-b31c-957a4c18bba5" />
 
 ### 2. Membuat file HTML dasar
 - Membuat file lab1_tag_dasar.html
