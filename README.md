@@ -18,18 +18,18 @@
 
 
 ### 3. Membuat paragraf
-- Menambahkan bebrapa paragraf menggunakan tag <p>
-- Menggunakan atribut align (center, right, left, justify).
+- Menambahkan bebrapa paragraf menggunakan tag `<p>`
+- Menggunakan atribut `align` (center, right, left, justify).
 
 <img width="864" height="212" alt="Cuplikan layar 2025-09-25 204128" src="https://github.com/user-attachments/assets/1112ad50-bd03-4921-b402-18d64e4cd186" />
 
 ### 4. Menambakan judul
-- Menambahkan judul <h1> dan <h2> untuk subjudul
+- Menambahkan judul `<h1>` dan `<h2>` untuk subjudul
 
 <img width="656" height="168" alt="image" src="https://github.com/user-attachments/assets/7b6e060c-9be6-43ff-9e0f-eaab8dec5ebe" />
 
 ### 5. Memformat teks
-- Menggunakan tag <b>, <u>, <i>, <del>
+- Menggunakan tag `<b>`, `<u>`, `<i>`, `<del>`
 
 <img width="701" height="156" alt="image" src="https://github.com/user-attachments/assets/4599beca-0fa4-4450-aba6-85baa876e8eb" />
 
