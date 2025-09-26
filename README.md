@@ -14,7 +14,8 @@
 ### 2. Membuat file HTML dasar
 - Membuat file lab1_tag_dasar.html
 
-<img width="1327" height="830" alt="image" src="https://github.com/user-attachments/assets/fe4ef30e-7668-41bb-80a6-35c8119ac525" />
+<img width="1389" height="788" alt="Screenshot 2025-09-26 071130" src="https://github.com/user-attachments/assets/af81a680-ce77-4400-b0bf-b8b7b7c4107f" />
+
 
 ### 3. Membuat paragraf
 - Menambahkan bebrapa paragraf menggunakan tag <p>
