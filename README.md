@@ -21,34 +21,39 @@
 - Menambahkan bebrapa paragraf menggunakan tag `<p>`
 - Menggunakan atribut `align` (center, right, left, justify).
 
-<img width="864" height="212" alt="Cuplikan layar 2025-09-25 204128" src="https://github.com/user-attachments/assets/1112ad50-bd03-4921-b402-18d64e4cd186" />
+<img width="373" height="170" alt="Screenshot 2025-09-26 072528" src="https://github.com/user-attachments/assets/0a2437f7-cbbf-4445-9ce6-e25dd11f0fd7" />
 
 ### 4. Menambakan judul
 - Menambahkan judul `<h1>` dan `<h2>` untuk subjudul
 
-<img width="656" height="168" alt="image" src="https://github.com/user-attachments/assets/7b6e060c-9be6-43ff-9e0f-eaab8dec5ebe" />
+<img width="764" height="187" alt="Screenshot 2025-09-26 072627" src="https://github.com/user-attachments/assets/721d490b-a581-434a-ba0a-c23581ee6987" />
+
 
 ### 5. Memformat teks
 - Menggunakan tag `<b>`, `<u>`, `<i>`, `<del>`
 
-<img width="701" height="156" alt="image" src="https://github.com/user-attachments/assets/4599beca-0fa4-4450-aba6-85baa876e8eb" />
+
+<img width="801" height="130" alt="Screenshot 2025-09-26 072727" src="https://github.com/user-attachments/assets/2838e3b2-6a9f-4d2a-8a9b-b5595cffe590" />
 
 ### 6. Menyisipkan gambar
 - Menggunakan gambar menggunakan tag `<img>` dengan atribut `src`, `width`, `alt`
 
-<img width="1567" height="146" alt="image" src="https://github.com/user-attachments/assets/d81d6af8-ce1f-48c7-bb2d-87f0df2d0206" />
+<img width="1386" height="151" alt="Screenshot 2025-09-26 072825" src="https://github.com/user-attachments/assets/4fc1b0d5-43b7-4c0b-ac5d-1c423c604220" />
+
 
 ### 7. Menambahkan Hyperlink
 - Membuat navigasi link ke halaman lain `(lab1_halaman2.html)`
 
-<img width="685" height="169" alt="image" src="https://github.com/user-attachments/assets/0e464e3a-8b41-494d-ac16-0263382de876" />
+<img width="592" height="123" alt="Screenshot 2025-09-26 072916" src="https://github.com/user-attachments/assets/33855700-e4cd-4b2d-9598-1582887d6346" />
+
 
 ### Hasil
 
-<img width="922" height="856" alt="image" src="https://github.com/user-attachments/assets/de7e063f-c7f9-454b-88d0-b80209103c27" />
+<img width="1809" height="909" alt="Screenshot 2025-09-26 065135" src="https://github.com/user-attachments/assets/c0cda764-248e-467c-9d4f-b7af5379afa1" />
+
 
 ### 8. Halaman 2
-<img width="945" height="406" alt="image" src="https://github.com/user-attachments/assets/6e4b0f55-78a3-4771-a9dd-73acd1ba1a75" />
+<img width="1224" height="513" alt="Screenshot 2025-09-26 065244" src="https://github.com/user-attachments/assets/abc07c0d-382c-481c-8ec2-3f7fa1d22ada" />
 
 ## Pertanyaan teori
 1. Apa yang terjadi jika ada kesalahan penulisan tag?
