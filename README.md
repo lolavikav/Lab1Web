@@ -34,12 +34,12 @@
 <img width="701" height="156" alt="image" src="https://github.com/user-attachments/assets/4599beca-0fa4-4450-aba6-85baa876e8eb" />
 
 ### 6. Menyisipkan gambar
-- Menggunakan gambar menggunakan tag <img> dengan atribut src, width, alt
+- Menggunakan gambar menggunakan tag `<img>` dengan atribut `src`, `width`, `alt`
 
 <img width="1567" height="146" alt="image" src="https://github.com/user-attachments/assets/d81d6af8-ce1f-48c7-bb2d-87f0df2d0206" />
 
 ### 7. Menambahkan Hyperlink
-- Membuat navigasi link ke halaman lain (lab1_halaman2.html)
+- Membuat navigasi link ke halaman lain `(lab1_halaman2.html)`
 
 <img width="685" height="169" alt="image" src="https://github.com/user-attachments/assets/0e464e3a-8b41-494d-ac16-0263382de876" />
 
@@ -51,24 +51,24 @@
 <img width="945" height="406" alt="image" src="https://github.com/user-attachments/assets/6e4b0f55-78a3-4771-a9dd-73acd1ba1a75" />
 
 ## Pertanyaan teori
-*1. Apa yang terjadi jika ada kesalahan penulisan tag?*
+1. Apa yang terjadi jika ada kesalahan penulisan tag?
 Browser tetap akan berusaha menampilkan halaman, tetapi hasilnya sering kali tidak sesuai dengan yang diharapkan.
 
-*2. Perbedaan <p> dan <br>*
-- <p> digunakan untuk membuat sebuah paragraf
-- <br> berfungsi untuk memindahkan teks ke baris berikutnya tanpa membuat paragraf baru
+2. Perbedaan `<p>` dan `<br>`
+- `<p>` digunakan untuk membuat sebuah paragraf
+- `<br>` berfungsi untuk memindahkan teks ke baris berikutnya tanpa membuat paragraf baru
 
-*3. Perbedaan atribut title dan alt pada <img>?*
-- alt teks alternatif jika gambar tidak bisa ditampilkan.
-- title teks yang muncul saat kursor diarahkan ke gambar.
+3. Perbedaan atribut title dan alt pada `<img>?`
+- `alt` teks alternatif jika gambar tidak bisa ditampilkan.
+- `title` teks yang muncul saat kursor diarahkan ke gambar.
 
-*4. Pengaturan ukuran gambar (width dan height)?*
+4. Pengaturan ukuran gambar (width dan height)?*
 
 Sebaiknya hanya isi salah satu atribut (misalnya width).
 Kalau keduanya diisi sembarangan, gambar bisa jadi gepeng/terdistorsi.
 
-*5. Fungsi atribut target pada link?*
-- _blank buka link di tab baru
-- _self buka di tab yang sama (default)
-- _top buka di jendela utama (hilangkan frame)
-- _parent buka di frame induk (kalau ada iframe)
+5. Fungsi atribut target pada link?*
+- `blank` buka link di tab baru
+- `self` buka di tab yang sama (default)
+- `top` buka di jendela utama (hilangkan frame)
+- `parent` buka di frame induk (kalau ada iframe)
